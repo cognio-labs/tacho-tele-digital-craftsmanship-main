@@ -1,0 +1,14 @@
+{
+  "name": "tacho-tele-digital-craftsmanship-main",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix tacho-tele-digital-craftsmanship-main run dev",
+    "build": "npm --prefix tacho-tele-digital-craftsmanship-main run build",
+    "build:dev": "npm --prefix tacho-tele-digital-craftsmanship-main run build:dev",
+    "preview": "npm --prefix tacho-tele-digital-craftsmanship-main run preview",
+    "lint": "npm --prefix tacho-tele-digital-craftsmanship-main run lint",
+    "test": "npm --prefix tacho-tele-digital-craftsmanship-main run test",
+    "test:watch": "npm --prefix tacho-tele-digital-craftsmanship-main run test:watch",
+    "install:app": "npm --prefix tacho-tele-digital-craftsmanship-main install"
+  }
+}
